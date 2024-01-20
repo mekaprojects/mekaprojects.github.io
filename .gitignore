@@ -1,6 +1,5 @@
 # .gitignore
 common.js
-index.html
 rendered.js
 styles.css
 window.js
