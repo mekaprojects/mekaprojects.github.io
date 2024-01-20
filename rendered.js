@@ -2,6 +2,7 @@ function _defineProperty(obj, key, value) {if (key in obj) {Object.definePropert
     { name: 'SEND TARGET INFO SYSTEM', price: 20, add: false, dayPrice: false },
     { name: 'BUFF TIME EXTENSION SYSTEM', price: 20, add: false, dayPrice: false },
     { name: 'BUFF PROTECTION SYSTEM', price: 20, add: false, dayPrice: false },
+    { name: 'HWID BAN SYSTEM', price: 10, add: false, dayPrice: false },
     { name: 'DRAGON COIN SYSTEM', price: 6, add: false, dayPrice: false },
     { name: 'COSTUME, MOUNT, PET, TIME EXTENSION SYSTEM', price: 20, add: false, dayPrice: false },
     { name: 'EXTRA SOCKET SYSTEM', price: 20, add: false, dayPrice: false },
